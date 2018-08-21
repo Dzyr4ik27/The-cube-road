@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - FirstObstacle
+  - Tunel
+  - BeginLevel
+  - EndLevel
+  - Tunnel
+  - RandomWall
+  - BeginTunel
+  - EndTunel
+  - Wall
+  - BeginWall
+  - PlatformUp
+  - Level_RandomWall
+  - Level_SidewayWall
+  - Level_Trains
+  - Level_Train
+  - FullObstacle
+  - Level_RandomSidewayWalls
+  - Level_FallingBlocks
+  - ScaleBall
+  - BeginPlatform
+  - IncreaseSpeed
+  - DecreaseSpeed
+  - SideObstacle
+  - BulletRain
+  - EndBulletRain
+  - Gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Environment
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

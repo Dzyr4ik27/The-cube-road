@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The road of cube", "Assembly-CSharp.csproj", "{E2692B95-7F73-5806-D52B-522502BB8771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The road of cube", "Assembly-CSharp-firstpass.csproj", "{B0436B8B-7D73-2C6F-36C0-BF3A0C397560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The road of cube", "Assembly-CSharp-Editor.csproj", "{F607CD60-FE6F-383C-D920-8C0C3F086C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The road of cube", "Assembly-CSharp-Editor-firstpass.csproj", "{13CFA2DB-9BAC-249F-D360-76C341099C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2692B95-7F73-5806-D52B-522502BB8771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2692B95-7F73-5806-D52B-522502BB8771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2692B95-7F73-5806-D52B-522502BB8771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2692B95-7F73-5806-D52B-522502BB8771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0436B8B-7D73-2C6F-36C0-BF3A0C397560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0436B8B-7D73-2C6F-36C0-BF3A0C397560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0436B8B-7D73-2C6F-36C0-BF3A0C397560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0436B8B-7D73-2C6F-36C0-BF3A0C397560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F607CD60-FE6F-383C-D920-8C0C3F086C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F607CD60-FE6F-383C-D920-8C0C3F086C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F607CD60-FE6F-383C-D920-8C0C3F086C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F607CD60-FE6F-383C-D920-8C0C3F086C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CFA2DB-9BAC-249F-D360-76C341099C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CFA2DB-9BAC-249F-D360-76C341099C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CFA2DB-9BAC-249F-D360-76C341099C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CFA2DB-9BAC-249F-D360-76C341099C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
